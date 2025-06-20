@@ -4,7 +4,7 @@ How to Contact Fubo TV Customer Service?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
+.. image:: click-service (1).png
    :alt: My Project Logo
    :width: 200px
    :align: center
