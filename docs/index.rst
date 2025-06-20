@@ -8,7 +8,7 @@ How to Contact Fubo TV Customer Service?
    :alt: My Project Logo
    :width: 200px
    :align: center
-   :target: https://navisolve.com/
+   :target: https://getchatsupport.live/
 
 
 
