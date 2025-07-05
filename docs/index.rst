@@ -4,7 +4,7 @@ How to Contact Fubo TV Customer Service?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://how-to-contact-nordpass-customer-service.readthedocs.io/en/latest/_images/click-service.png
+.. image:: service.png 1.png
    :alt: My Project Logo
    :width: 400px
    :align: center
